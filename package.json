@@ -1,7 +1,9 @@
 {
   "name": "keksobooking",
+  "author": "Nemtsev Konstantin <nemtsevk@hotmail.com> (https://github.com/nemtsev-k)",
+  "description": "Личный проект «Кексобукинг» от HTML Academy",
+  "homepage": "https://nemtsev-k.github.io/keksobooking/",
   "private": true,
-  "description": "Личный проект ««Кексобукинг»» от HTML Academy",
   "repository": {
     "type": "git",
     "url": "{{sshUrl}}"
@@ -20,7 +22,6 @@
     "lint": "eslint js/"
   },
   "engines": {
-    "node": "18",
-    "npm": "9"
+    "node": "^20.14.0"
   }
 }
