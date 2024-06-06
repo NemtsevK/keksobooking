@@ -3,7 +3,7 @@ import '../../vendor/pristine/pristine.min.js';
 const FILE_TYPES = ['jpg', 'jpeg', 'png', 'svg', 'webp'];
 
 const photoConfig = {
-  defaultSrc: 'images/muffin-grey.svg',
+  defaultSrc: 'img/muffin-grey.svg',
   size: '70',
 };
 
