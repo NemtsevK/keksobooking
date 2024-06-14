@@ -6,7 +6,7 @@ const COPYRIGHT = '&copy; <a href="https://www.openstreetmap.org/copyright">Open
 const ZOOM = 13;
 
 const iconConfig = {
-  url: {main: '../img/main-pin.svg', normal: '../img/pin.svg'},
+  url: {main: 'img/main-pin.svg', normal: 'img/pin.svg'},
   width: {main: 52, normal: 40},
   height: {main: 52, normal: 40},
   anchorX: {main: 26, normal: 20},
