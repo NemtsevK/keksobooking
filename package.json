@@ -1,13 +1,11 @@
 {
   "name": "keksobooking",
-  "author": "Nemtsev Konstantin <nemtsevk@hotmail.com> (https://github.com/nemtsev-k)",
-  "description": "Личный проект «Кексобукинг» от HTML Academy",
-  "homepage": "https://nemtsev-k.github.io/keksobooking/",
+  "author": "Nemtsev Konstantin <nemtsevk@hotmail.com> (https://github.com/NemtsevK)",
+  "description": "Личный проект «Кексобукинг»",
+  "homepage": "https://nemtsevk.github.io/keksobooking/",
+  "repository": "https://github.com/NemtsevK/keksobooking",
   "private": true,
-  "repository": {
-    "type": "git",
-    "url": "{{sshUrl}}"
-  },
+  "type": "module",
   "bugs": {
     "url": "{{bugsUrl}}"
   },
